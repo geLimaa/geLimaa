@@ -1,4 +1,4 @@
-# Gean Filho
+# Gean Lima
 
 > Trying to understand computers before they understand me
 
