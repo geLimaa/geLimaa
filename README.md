@@ -12,7 +12,7 @@
 
 ## ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,linux,git,sfml,javascript,tailwind,astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,nodejs,linux,git,html,css,javascript,tailwind,astro)](https://skillicons.dev)
 
 ---
 
@@ -29,8 +29,6 @@ Snake Game using C++ with SFML.
 
 ---
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Limaa0907&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Limaa0907&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limaa0907&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Limaa0907&layout=compact&theme=tokyonight&hide_border=true)
