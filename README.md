@@ -29,6 +29,6 @@ Snake Game using C++ with SFML.
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Limaa0907&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=geLimaa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Limaa0907&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geLimaa&layout=compact&theme=tokyonight&hide_border=true)
