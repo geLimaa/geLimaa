@@ -33,7 +33,7 @@ status:    "perpetually debugging something"
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gean-lima-8972aa34a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/ge._brgs" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
