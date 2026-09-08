@@ -68,29 +68,29 @@ status:    "perpetually debugging something"
 ## `$ ls projects/`
 
 <details>
-<summary><b>📁 StudyFlow</b></summary>
+<summary><b>📁 Hash Cracker CLI</b></summary>
 <br>
 
-> Productivity and study dashboard built for students.
-> Focus tracking, session management, clean UI.
+> Hash cracking tool built in **C++**.
+> OpenSSL EVP API, dictionary/brute-force/rule-based attacks, multi-threading via `std::thread`, ANSI progress bar.
 
 </details>
 
 <details>
-<summary><b>📁 Map Generator</b></summary>
+<summary><b>📁 Market Tracer</b></summary>
 <br>
 
-> Modularized C++ terrain generator using the **Diamond Square** algorithm.
-> Procedural. Efficient. Satisfyingly random.
+> Fullstack market tracker (crypto + exchange rates).
+> Frontend in **React** (Netlify), backend in **FastAPI + SQLAlchemy** (Render), data from CoinGecko and Frankfurter API, **PostgreSQL** database (Neon).
 
 </details>
 
 <details>
-<summary><b>📁 Snake Game</b></summary>
+<summary><b>📁 Questify</b></summary>
 <br>
 
-> Classic Snake, rebuilt in C++ with **SFML**.
-> Because some problems deserve old-school solutions.
+> Task management API with gamification.
+> **FastAPI**, JWT authentication, full task CRUD, points system, tested with **Pytest**, containerized with **Docker**, migrations via **Alembic**.
 
 </details>
 
@@ -104,9 +104,9 @@ status:    "perpetually debugging something"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=geLimaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_radius=8)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geLimaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&border_radius=8)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geLimaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_radius=8)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=geLimaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_radius=8)
 
 </div>
 
