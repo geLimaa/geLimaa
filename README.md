@@ -23,9 +23,9 @@
 ```yaml
 name:      Gean Lima
 role:      Computer Science Student
-interests: [Cybersecurity, Digital Forensics, Low-level stuff]
+interests: [Cybersecurity, Backend Development, Pentest]
 os:        Arch Linux  # btw
-status:    "perpetually debugging something"
+status:    "idk"
 ```
 ---
 
@@ -51,13 +51,13 @@ status:    "perpetually debugging something"
 
 [![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,nodejs)](https://skillicons.dev)
 
-**Web & Frameworks**
+**Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,astro,express)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,astro,react)](https://skillicons.dev)
 
-**Databases**
+**Backend**
 
-[![Skills](https://skillicons.dev/icons?i=postgresql,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=express,prisma,fastapi,postgres)](https://skillicons.dev)
 
 **Tools & Environment**
 
