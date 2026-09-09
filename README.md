@@ -49,7 +49,7 @@ status:    "idk"
 
 **Languages & Runtimes**
 
-[![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,nodejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=cpp,python,javascript,typescript)](https://skillicons.dev)
 
 **Frontend**
 
